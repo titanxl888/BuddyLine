@@ -46,7 +46,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/buddyline.git
+git clone https://github.com/titanxl888/buddyline.git
 
 # 进入项目目录
 cd buddyline
@@ -157,16 +157,6 @@ buddyline/
 - 应用不收集任何用户数据
 - 建议使用环境变量管理敏感信息（生产环境）
 
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
 ## 📝 许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
@@ -180,10 +170,10 @@ buddyline/
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 提交 [Issue](https://github.com/yourusername/buddyline/issues)
-- 发送邮件至：your.email@example.com
+- 提交 [Issue](https://github.com/titanxl888/buddyline/issues)
 
 ---
 
 用 ❤️ 打造，让 AI 对话更有温度
+
 
