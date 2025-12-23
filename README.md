@@ -40,13 +40,13 @@ A 24-year-old freelance painter. Imaginative, expressive, and dreamy. Helps user
 
 - Node.js 18.0 or higher
 - npm or yarn package manager
-- OpenAI API key (or compatible API service)
+- OpenAI API key (or a compatible API service, such as pollinations.ai)
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/buddyline.git
+git clone https://github.com/titanxl888/buddyline.git
 
 # Navigate to project directory
 cd buddyline
@@ -157,16 +157,6 @@ buddyline/
 - The application does not collect any user data
 - Recommended to use environment variables for sensitive information (production)
 
-## 🤝 Contributing
-
-Issues and Pull Requests are welcome!
-
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -180,11 +170,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or suggestions, feel free to reach out:
 
-- Submit an [Issue](https://github.com/yourusername/buddyline/issues)
-- Email: your.email@example.com
+- Submit an [Issue](https://github.com/titanxl888/buddyline/issues)
 
 ---
 
 Built with ❤️ to make AI conversations more human
+
 
 
