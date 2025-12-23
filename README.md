@@ -7,8 +7,8 @@ A modern AI companion chat application that provides natural, emotionally rich c
 ## 📸 Screenshots
 
 <div align="center">
-  <img width="45%" alt="明亮模式" src="https://github.com/user-attachments/assets/11784fba-f88f-4ec0-b932-8192bab387ab" />
-  <img width="45%" alt="深色模式" src="https://github.com/user-attachments/assets/31b2d6aa-bb3f-43d7-8ea7-72569ecb59a0" />
+  <img width="45%" alt="light mode" src="https://github.com/user-attachments/assets/11784fba-f88f-4ec0-b932-8192bab387ab" />
+  <img width="45%" alt="dark mode" src="https://github.com/user-attachments/assets/31b2d6aa-bb3f-43d7-8ea7-72569ecb59a0" />
 </div>
 
 ## ✨ Features
@@ -186,4 +186,5 @@ For questions or suggestions, feel free to reach out:
 ---
 
 Built with ❤️ to make AI conversations more human
+
 
