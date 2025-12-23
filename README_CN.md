@@ -4,6 +4,13 @@
 
 [English Documentation](README.md)
 
+## 📸 截图
+
+<div align="center">
+  <img width="45%" alt="明亮模式" src="https://github.com/user-attachments/assets/11784fba-f88f-4ec0-b932-8192bab387ab" />
+  <img width="45%" alt="深色模式" src="https://github.com/user-attachments/assets/31b2d6aa-bb3f-43d7-8ea7-72569ecb59a0" />
+</div>
+
 ## ✨ 特性
 
 - **多人格系统** - 内置 3 个精心设计的 AI 人格角色，每个都有独特的性格、背景和交流风格
@@ -179,3 +186,4 @@ buddyline/
 ---
 
 用 ❤️ 打造，让 AI 对话更有温度
+
